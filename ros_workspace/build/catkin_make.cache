@@ -1,0 +1,2 @@
+tutorial_pkg
+-DCATKIN_DEVEL_PREFIX=/home/husarion/ros_workspace/devel -DCMAKE_INSTALL_PREFIX=/home/husarion/ros_workspace/install -G Unix Makefiles
