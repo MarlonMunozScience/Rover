@@ -1,6 +1,6 @@
 # Husarion-Rosbot-2022
 
-This is all of the files currently on the Husarion ROSbot 2.0 Pro in the DeepSpace Lab.
+This is all of the files currently on the Husarion ROSbot 2.0 Pro in the DeepSpace Lab. This was a NASA project attempting to use an autonomous rover powered by a external laser over a distance. Unfortunately due to the specs of the Rosbot, this project never came into fruition, though the rover is in working condition and currently has area mapping and autonomous driving capabilities.
 
 Most of these files come from following the [Husarion Tutorials for ROS](https://husarion.com/tutorials/ros-tutorials/1-ros-introduction/). There are slight changes for  programming improvements. Some scripts have been added to improve autonomous moving and image recognition. 
 
